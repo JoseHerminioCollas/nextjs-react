@@ -1,8 +1,13 @@
 
+import PONE from './page_one';
+import NLF from './NameLocationInput'
+
 export default function Home() {
   return (
     <main>
-      xxxxxssss
+      <PONE />
+      <NLF />
+      xxxxxssssfdddddddfffffff
     </main>
   );
 }
